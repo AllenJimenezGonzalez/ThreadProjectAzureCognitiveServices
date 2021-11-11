@@ -1,0 +1,10 @@
+moviepy
+opencv-python
+numpy~=1.19.3
+azure-cognitiveservices-vision-computervision
+azure-cognitiveservices-vision-contentmoderator
+azure-cognitiveservices-vision-face
+azure-ai-textanalytics
+msrest
+Pillow
+matplotlib
